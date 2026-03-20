@@ -19,7 +19,7 @@
 
 ## 현재 배우고 있는 것 ✏️
 
-- [ ]🎯Dart/🪽Flutter
+- [ ] 🎯Dart/🪽Flutter
 
 ## 포트폴리오
 [My-todo-app](https://my-todo-app.kro.kr/) (Next.js 입문작)
@@ -27,4 +27,3 @@
 ## Contact
 
 ✉️ 4pplepi3.14@gmail.com
-`
